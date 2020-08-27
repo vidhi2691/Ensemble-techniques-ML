@@ -1,11 +1,10 @@
 # Ensemble-techniques-ML
 
 Technique Used:
+Exploratory Data Analysis
+Preparing the data to train a model
+Training and making predictions using an Ensemble Model
+Tuning an Ensemble model
 
-Understand and apply the Decision Tree algorithm for an appropriate problem
-Use the key Ensemble techniques to ensure the best performing model with minimal risk
-
-Decision Tree Classifier
-Bagging
-Boosting
-Random forest
+# Objective:
+The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y
